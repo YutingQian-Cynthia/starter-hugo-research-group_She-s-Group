@@ -69,7 +69,7 @@ user_groups:
   - Graduate Students
 ---
 
-Yuting Qian (钱雨婷) is currently a PhD student in School of Civil and Environmental Engineering at She's Lab. Her research interests include xxx. She likes xxx and xxx in her leisure.
+Yuting Qian (钱雨婷) is currently a PhD student of Interdisciplinary Graduate Program at She's Lab under co-supervision of [Prof.Qianhong She](https://scholar.google.com/citations?user=BdJy_rYAAAAJ&hl=zh-CN&inst=10972715779114120479&oi=ao) and [Prof. Yonggui Robin Chi](https://scholar.google.com.sg/citations?user=xFqAyzgAAAAJ&hl=en). Her research interests include xxx. She likes xxx and xxx in her leisure.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
