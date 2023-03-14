@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - "Research Interest: "Organic solvent reverse osmosis
+  - "Research Interest:" Organic solvent reverse osmosis
   - Computational Linguistics
   - Information Retrieval
 
