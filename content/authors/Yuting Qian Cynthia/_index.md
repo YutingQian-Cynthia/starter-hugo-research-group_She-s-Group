@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student Batch 2022 <br />
+role: Ph.D Student Batch 2022 <br /> 'Research Interest:'Organic solvent reverse osmosis
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  "Research Interest:" Organic solvent reverse osmosis
+  - Organic solvent reverse osmosis
   - Computational Linguistics
   - Information Retrieval
 
