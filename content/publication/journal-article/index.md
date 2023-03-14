@@ -1,5 +1,5 @@
 ---
-title: An example journal article
+title: 'An example journal article'
 authors:
   - admin
   - Robert Ford
@@ -8,7 +8,7 @@ author_notes:
   - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
 doi: ''
-
+https://www.sciencedirect.com/science/article/abs/pii/S037673881000181X
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
