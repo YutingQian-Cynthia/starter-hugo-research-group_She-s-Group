@@ -1,5 +1,5 @@
 ---
-title: '[An example journal article](https://www.sciencedirect.com/science/article/pii/S037673881000181X)'
+title: 'An example journal article'
 authors:
   - admin
   - Robert Ford
@@ -29,7 +29,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
   - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
