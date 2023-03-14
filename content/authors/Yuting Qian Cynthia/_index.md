@@ -14,8 +14,8 @@ role: Ph.D Student Batch 2022
 
 # Organizations/Affiliations
 organizations:
-  - name: IGP (co-supervised by [Prof. Yonggui Robin Chi](https://scholar.google.com.sg/citations?user=xFqAyzgAAAAJ&hl=en/) )
-    url: ''
+  - name: IGP
+    url: 'https://www.ntu.edu.sg/hass/admissions/graduate-programmes/interdisciplinary-graduate-programme'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
