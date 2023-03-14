@@ -67,6 +67,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Graduate Students
+  - Principle Investigator
 ---
 
 Yuting Qian (钱雨婷) is currently a PhD student of Interdisciplinary Graduate Program at She's Lab under co-supervision of [Prof.Qianhong She](https://scholar.google.com/citations?user=BdJy_rYAAAAJ&hl=zh-CN&inst=10972715779114120479&oi=ao) and [Prof. Yonggui Robin Chi](https://scholar.google.com.sg/citations?user=xFqAyzgAAAAJ&hl=en). Her research interests include xxx. She likes xxx and xxx in her leisure.
