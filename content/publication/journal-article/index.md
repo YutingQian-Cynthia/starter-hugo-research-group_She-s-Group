@@ -1,5 +1,5 @@
 ---
-title:{[An example journal article](https://www.sciencedirect.com/science/article/pii/S037673881000181X)}
+title: {[An example journal article](https://www.sciencedirect.com/science/article/pii/S037673881000181X)}
 authors:
   - admin
   - Robert Ford
