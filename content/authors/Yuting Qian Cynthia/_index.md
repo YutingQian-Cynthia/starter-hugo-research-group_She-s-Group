@@ -10,8 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student Batch 2022 
-role: Organic solvent reverse osmosis
+role: Ph.D Student Batch 2022 <br /> Organic solvent reverse osmosis
 
 # Organizations/Affiliations
 organizations:
