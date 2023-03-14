@@ -14,7 +14,7 @@ role: Ph.D Student Batch 2022
 
 # Organizations/Affiliations
 organizations:
-  - name: IGP (co-supervised by [Prof. Yonggui Robin Chi](/ https://scholar.google.com.sg/citations?user=xFqAyzgAAAAJ&hl=en /))
+  - name: IGP (co-supervised by [Prof. Yonggui Robin Chi](https://scholar.google.com.sg/citations?user=xFqAyzgAAAAJ&hl=en/))
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
