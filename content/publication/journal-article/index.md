@@ -9,7 +9,7 @@ author_notes:
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
-  https://www.sciencedirect.com/science/article/abs/pii/S037673881000181X
+    https://www.sciencedirect.com/science/article/abs/pii/S037673881000181X
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
