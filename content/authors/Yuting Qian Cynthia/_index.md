@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D Student Batch 2022 <br /> 'Research Interest: Organic solvent reverse osmosis'
+role: Ph.D Student Batch 2022 <br /> Research Interest:Organic solvent reverse osmosis
 
 # Organizations/Affiliations
 organizations:
